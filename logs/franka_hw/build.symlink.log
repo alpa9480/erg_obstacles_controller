@@ -1,0 +1,5 @@
+Symlinking /home/panda/ws_moveit/devel/share/franka_hw/cmake/franka_hwConfig-version.cmake
+Symlinking /home/panda/ws_moveit/devel/share/franka_hw/cmake/franka_hwConfig.cmake
+Symlinking /home/panda/ws_moveit/devel/lib/libfranka_control_services.so
+Symlinking /home/panda/ws_moveit/devel/lib/libfranka_hw.so
+Symlinking /home/panda/ws_moveit/devel/lib/pkgconfig/franka_hw.pc

@@ -1,0 +1,15 @@
+Symlinking /home/panda/ws_moveit/devel/share/moveit_kinematics/cmake/moveit_kinematicsConfig-version.cmake
+Symlinking /home/panda/ws_moveit/devel/share/moveit_kinematics/cmake/moveit_kinematicsConfig.cmake
+Symlinking /home/panda/ws_moveit/devel/lib/libmoveit_lma_kinematics_plugin.so.1.1.9
+Symlinking /home/panda/ws_moveit/devel/lib/libmoveit_cached_ik_kinematics_base.so
+Symlinking /home/panda/ws_moveit/devel/lib/libmoveit_srv_kinematics_plugin.so
+Symlinking /home/panda/ws_moveit/devel/lib/libmoveit_cached_ik_kinematics_plugin.so.1.1.9
+Symlinking /home/panda/ws_moveit/devel/lib/libmoveit_kdl_kinematics_plugin.so
+Symlinking /home/panda/ws_moveit/devel/lib/libmoveit_cached_ik_kinematics_base.so.1.1.9
+Symlinking /home/panda/ws_moveit/devel/lib/libmoveit_lma_kinematics_plugin.so
+Symlinking /home/panda/ws_moveit/devel/lib/libmoveit_kdl_kinematics_plugin.so.1.1.9
+Symlinking /home/panda/ws_moveit/devel/lib/libmoveit_cached_ik_kinematics_plugin.so
+Symlinking /home/panda/ws_moveit/devel/lib/libmoveit_srv_kinematics_plugin.so.1.1.9
+Symlinking /home/panda/ws_moveit/devel/lib/pkgconfig/moveit_kinematics.pc
+Symlinking /home/panda/ws_moveit/devel/lib/moveit_kinematics/benchmark_ik
+Symlinking /home/panda/ws_moveit/devel/lib/moveit_kinematics/test_kinematics_plugin

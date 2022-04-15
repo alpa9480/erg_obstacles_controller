@@ -1,0 +1,2 @@
+set(franka_example_controllers_MESSAGE_FILES "/home/panda/ws_moveit/src/franka_ros/franka_example_controllers/msg/JointTorqueComparison.msg;/home/panda/ws_moveit/src/franka_ros/franka_example_controllers/msg/DSM.msg;/home/panda/ws_moveit/src/franka_ros/franka_example_controllers/msg/JointStates.msg;/home/panda/ws_moveit/src/franka_ros/franka_example_controllers/msg/TrajectoryPredictions.msg")
+set(franka_example_controllers_SERVICE_FILES "")

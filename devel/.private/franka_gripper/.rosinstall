@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/panda/ws_moveit/devel/.private/franka_gripper/setup.sh
