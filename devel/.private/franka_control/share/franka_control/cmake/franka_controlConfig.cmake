@@ -91,9 +91,9 @@ endif()
 # flag project as catkin-based to distinguish if a find_package()-ed project is a catkin project
 set(franka_control_FOUND_CATKIN_PROJECT TRUE)
 
-if(NOT "/home/panda/ws_moveit/src/franka_ros/franka_control/include;/opt/ros/melodic/include/libfranka " STREQUAL " ")
+if(NOT "/home/panda/ws_moveit/src/franka_ros/franka_control/include;/home/panda/libfranka/include " STREQUAL " ")
   set(franka_control_INCLUDE_DIRS "")
-  set(_include_dirs "/home/panda/ws_moveit/src/franka_ros/franka_control/include;/opt/ros/melodic/include/libfranka")
+  set(_include_dirs "/home/panda/ws_moveit/src/franka_ros/franka_control/include;/home/panda/libfranka/include")
   if(NOT "https://github.com/frankaemika/franka_ros/issues " STREQUAL " ")
     set(_report "Check the issue tracker 'https://github.com/frankaemika/franka_ros/issues' and consider creating a ticket if the problem has not been reported yet.")
   elseif(NOT "http://wiki.ros.org/franka_control " STREQUAL " ")
@@ -116,7 +116,7 @@ if(NOT "/home/panda/ws_moveit/src/franka_ros/franka_control/include;/opt/ros/mel
   endforeach()
 endif()
 
-set(libraries "franka_state_controller;/opt/ros/melodic/lib/libfranka.so.0.8.0")
+set(libraries "franka_state_controller;/home/panda/libfranka/build/libfranka.so.0.9.0")
 foreach(library ${libraries})
   # keep build configuration keywords, target names and absolute libraries as-is
   if("${library}" MATCHES "^(debug|optimized|general)$")

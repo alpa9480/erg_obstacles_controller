@@ -93,7 +93,7 @@ franka_combined_control_node_EXTERNAL_OBJECTS =
 /home/panda/ws_moveit/devel/.private/franka_control/lib/franka_control/franka_combined_control_node: /opt/ros/melodic/lib/libcontroller_manager.so
 /home/panda/ws_moveit/devel/.private/franka_control/lib/franka_control/franka_combined_control_node: /home/panda/ws_moveit/devel/.private/franka_hw/lib/libfranka_hw.so
 /home/panda/ws_moveit/devel/.private/franka_control/lib/franka_control/franka_combined_control_node: /home/panda/ws_moveit/devel/.private/franka_hw/lib/libfranka_control_services.so
-/home/panda/ws_moveit/devel/.private/franka_control/lib/franka_control/franka_combined_control_node: /opt/ros/melodic/lib/libfranka.so.0.8.0
+/home/panda/ws_moveit/devel/.private/franka_control/lib/franka_control/franka_combined_control_node: /home/panda/libfranka/build/libfranka.so.0.9.0
 /home/panda/ws_moveit/devel/.private/franka_control/lib/franka_control/franka_combined_control_node: /opt/ros/melodic/lib/libcombined_robot_hw.so
 /home/panda/ws_moveit/devel/.private/franka_control/lib/franka_control/franka_combined_control_node: /opt/ros/melodic/lib/liburdf.so
 /home/panda/ws_moveit/devel/.private/franka_control/lib/franka_control/franka_combined_control_node: /usr/lib/x86_64-linux-gnu/liburdfdom_sensor.so

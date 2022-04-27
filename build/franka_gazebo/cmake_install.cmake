@@ -166,7 +166,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libfranka_hw_sim.so")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libfranka_hw_sim.so"
-         OLD_RPATH "/home/panda/ws_moveit/devel/.private/franka_hw/lib:/home/panda/ws_moveit/devel/.private/franka_gripper/lib:/home/panda/ws_moveit/devel/.private/franka_example_controllers/lib:/opt/ros/melodic/lib:/usr/lib/x86_64-linux-gnu/gazebo-9/plugins:"
+         OLD_RPATH "/home/panda/ws_moveit/devel/.private/franka_hw/lib:/home/panda/ws_moveit/devel/.private/franka_gripper/lib:/home/panda/ws_moveit/devel/.private/franka_example_controllers/lib:/opt/ros/melodic/lib:/usr/lib/x86_64-linux-gnu/gazebo-9/plugins:/home/panda/libfranka/build:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libfranka_hw_sim.so")

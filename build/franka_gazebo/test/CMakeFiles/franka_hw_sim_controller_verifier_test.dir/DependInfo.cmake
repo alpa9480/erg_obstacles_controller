@@ -11,6 +11,7 @@ set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_CXX
+  "ENABLE_BASE_ACCELERATION"
   "LIBBULLET_VERSION=2.87"
   "LIBBULLET_VERSION_GT_282"
   "ROSCONSOLE_BACKEND_LOG4CXX"
@@ -30,7 +31,6 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/opt/ros/melodic/include"
   "/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
   "/opt/ros/melodic/share/orocos_kdl/cmake/../../../include"
-  "/opt/ros/melodic/include/libfranka"
   "/usr/include/gazebo-9"
   "/usr/include/bullet"
   "/usr/include/simbody"
@@ -44,6 +44,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/usr/include/ignition/common1"
   "/usr/include/ignition/fuel_tools1"
   "/usr/include/eigen3"
+  "/home/panda/libfranka/include"
   "/usr/src/googletest/googletest/include"
   "/usr/include/uuid"
   "/usr/include/x86_64-linux-gnu"

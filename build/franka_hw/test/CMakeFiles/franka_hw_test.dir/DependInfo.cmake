@@ -13,6 +13,7 @@ set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_CXX
+  "ENABLE_BASE_ACCELERATION"
   "ROSCONSOLE_BACKEND_LOG4CXX"
   "ROS_BUILD_SHARED_LIBS=1"
   "ROS_PACKAGE_NAME=\"franka_hw\""
@@ -24,7 +25,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/opt/ros/melodic/include"
   "/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
   "/usr/src/googletest/googletest/include"
-  "/opt/ros/melodic/include/libfranka"
+  "/home/panda/libfranka/include"
   "/home/panda/ws_moveit/src/franka_ros/franka_hw/include"
   )
 

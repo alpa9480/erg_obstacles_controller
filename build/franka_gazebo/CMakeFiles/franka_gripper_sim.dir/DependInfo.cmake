@@ -29,7 +29,6 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/opt/ros/melodic/include"
   "/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
   "/opt/ros/melodic/share/orocos_kdl/cmake/../../../include"
-  "/opt/ros/melodic/include/libfranka"
   "/usr/include/gazebo-9"
   "/usr/include/bullet"
   "/usr/include/simbody"
@@ -43,6 +42,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/usr/include/ignition/common1"
   "/usr/include/ignition/fuel_tools1"
   "/usr/include/eigen3"
+  "/home/panda/libfranka/include"
   "/usr/include/uuid"
   "/usr/include/x86_64-linux-gnu"
   )

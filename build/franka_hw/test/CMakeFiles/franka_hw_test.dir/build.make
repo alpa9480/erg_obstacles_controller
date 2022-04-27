@@ -241,7 +241,7 @@ franka_hw_test_EXTERNAL_OBJECTS =
 /home/panda/ws_moveit/devel/.private/franka_hw/lib/franka_hw/franka_hw_test: /usr/lib/x86_64-linux-gnu/libboost_atomic.so
 /home/panda/ws_moveit/devel/.private/franka_hw/lib/franka_hw/franka_hw_test: /usr/lib/x86_64-linux-gnu/libpthread.so
 /home/panda/ws_moveit/devel/.private/franka_hw/lib/franka_hw/franka_hw_test: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/panda/ws_moveit/devel/.private/franka_hw/lib/franka_hw/franka_hw_test: /opt/ros/melodic/lib/libfranka.so.0.8.0
+/home/panda/ws_moveit/devel/.private/franka_hw/lib/franka_hw/franka_hw_test: /home/panda/libfranka/build/libfranka.so.0.9.0
 /home/panda/ws_moveit/devel/.private/franka_hw/lib/franka_hw/franka_hw_test: test/CMakeFiles/franka_hw_test.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/panda/ws_moveit/build/franka_hw/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable /home/panda/ws_moveit/devel/.private/franka_hw/lib/franka_hw/franka_hw_test"
 	cd /home/panda/ws_moveit/build/franka_hw/test && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/franka_hw_test.dir/link.txt --verbose=$(VERBOSE)

@@ -8,6 +8,8 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/panda/ws_moveit/devel/.private/moveit_servo:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/panda/ws_moveit/devel/.private/moveit_servo/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/panda/ws_moveit/devel/.private/moveit_servo/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/panda/ws_moveit/build/moveit_servo'
 export ROSLISP_PACKAGE_DIRECTORIES="/home/panda/ws_moveit/devel/.private/moveit_servo/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/panda/ws_moveit/src/moveit/moveit_ros/moveit_servo:$ROS_PACKAGE_PATH"

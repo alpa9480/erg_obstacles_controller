@@ -153,7 +153,7 @@ franka_hw_sim_gazebo_test_EXTERNAL_OBJECTS =
 /home/panda/ws_moveit/devel/.private/franka_gazebo/lib/franka_gazebo/franka_hw_sim_gazebo_test: /home/panda/ws_moveit/devel/.private/franka_hw/lib/libfranka_control_services.so
 /home/panda/ws_moveit/devel/.private/franka_gazebo/lib/franka_gazebo/franka_hw_sim_gazebo_test: /opt/ros/melodic/lib/libcombined_robot_hw.so
 /home/panda/ws_moveit/devel/.private/franka_gazebo/lib/franka_gazebo/franka_hw_sim_gazebo_test: /home/panda/ws_moveit/devel/.private/franka_gripper/lib/libfranka_gripper.so
-/home/panda/ws_moveit/devel/.private/franka_gazebo/lib/franka_gazebo/franka_hw_sim_gazebo_test: /opt/ros/melodic/lib/libfranka.so.0.8.0
+/home/panda/ws_moveit/devel/.private/franka_gazebo/lib/franka_gazebo/franka_hw_sim_gazebo_test: /home/panda/libfranka/build/libfranka.so.0.9.0
 /home/panda/ws_moveit/devel/.private/franka_gazebo/lib/franka_gazebo/franka_hw_sim_gazebo_test: /opt/ros/melodic/lib/libtf_conversions.so
 /home/panda/ws_moveit/devel/.private/franka_gazebo/lib/franka_gazebo/franka_hw_sim_gazebo_test: /opt/ros/melodic/lib/libkdl_conversions.so
 /home/panda/ws_moveit/devel/.private/franka_gazebo/lib/franka_gazebo/franka_hw_sim_gazebo_test: /opt/ros/melodic/lib/liborocos-kdl.so.1.4.0
@@ -196,7 +196,7 @@ franka_hw_sim_gazebo_test_EXTERNAL_OBJECTS =
 /home/panda/ws_moveit/devel/.private/franka_gazebo/lib/franka_gazebo/franka_hw_sim_gazebo_test: /usr/lib/x86_64-linux-gnu/libboost_atomic.so
 /home/panda/ws_moveit/devel/.private/franka_gazebo/lib/franka_gazebo/franka_hw_sim_gazebo_test: /usr/lib/x86_64-linux-gnu/libpthread.so
 /home/panda/ws_moveit/devel/.private/franka_gazebo/lib/franka_gazebo/franka_hw_sim_gazebo_test: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/panda/ws_moveit/devel/.private/franka_gazebo/lib/franka_gazebo/franka_hw_sim_gazebo_test: /opt/ros/melodic/lib/libfranka.so.0.8.0
+/home/panda/ws_moveit/devel/.private/franka_gazebo/lib/franka_gazebo/franka_hw_sim_gazebo_test: /home/panda/libfranka/build/libfranka.so.0.9.0
 /home/panda/ws_moveit/devel/.private/franka_gazebo/lib/franka_gazebo/franka_hw_sim_gazebo_test: /opt/ros/melodic/lib/liborocos-kdl.so.1.4.0
 /home/panda/ws_moveit/devel/.private/franka_gazebo/lib/franka_gazebo/franka_hw_sim_gazebo_test: test/CMakeFiles/franka_hw_sim_gazebo_test.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/panda/ws_moveit/build/franka_gazebo/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/panda/ws_moveit/devel/.private/franka_gazebo/lib/franka_gazebo/franka_hw_sim_gazebo_test"

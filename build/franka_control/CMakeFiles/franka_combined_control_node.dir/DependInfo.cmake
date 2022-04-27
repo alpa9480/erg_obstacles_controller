@@ -21,7 +21,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/home/panda/ws_moveit/src/franka_ros/franka_hw/include"
   "/opt/ros/melodic/include"
   "/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
-  "/opt/ros/melodic/include/libfranka"
+  "/home/panda/libfranka/include"
   )
 
 # Targets to which this target links.

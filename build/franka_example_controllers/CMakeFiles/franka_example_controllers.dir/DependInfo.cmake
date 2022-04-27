@@ -30,7 +30,7 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/home/panda/ws_moveit/devel/.private/franka_example_controllers/include"
-  "/opt/ros/melodic/include/libfranka"
+  "/home/panda/libfranka/include"
   "/usr/include/eigen3"
   "/home/panda/ws_moveit/devel/.private/franka_msgs/include"
   "/home/panda/ws_moveit/devel/.private/franka_gripper/include"

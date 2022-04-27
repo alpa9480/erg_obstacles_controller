@@ -8,6 +8,9 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/panda/ws_moveit/devel/.private/moveit_ros_manipulation:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/panda/ws_moveit/devel/.private/moveit_ros_manipulation/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/panda/ws_moveit/devel/.private/moveit_ros_manipulation/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/panda/ws_moveit/build/moveit_ros_manipulation'
+export PYTHONPATH="/home/panda/ws_moveit/devel/.private/moveit_ros_manipulation/lib/python2.7/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/panda/ws_moveit/devel/.private/moveit_ros_manipulation/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/panda/ws_moveit/src/moveit/moveit_ros/manipulation:$ROS_PACKAGE_PATH"

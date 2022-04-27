@@ -6,5 +6,5 @@ CXX_FLAGS = -O3 -DNDEBUG   -std=gnu++14
 
 CXX_DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"franka_gripper\"
 
-CXX_INCLUDES = -I/home/panda/ws_moveit/devel/.private/franka_gripper/include -isystem /opt/ros/melodic/include -isystem /opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/melodic/include/libfranka -I/home/panda/ws_moveit/src/franka_ros/franka_gripper/include 
+CXX_INCLUDES = -I/home/panda/ws_moveit/devel/.private/franka_gripper/include -isystem /opt/ros/melodic/include -isystem /opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /home/panda/libfranka/include -I/home/panda/ws_moveit/src/franka_ros/franka_gripper/include 
 

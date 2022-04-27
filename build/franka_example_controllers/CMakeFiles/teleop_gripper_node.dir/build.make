@@ -90,14 +90,14 @@ teleop_gripper_node_EXTERNAL_OBJECTS =
 
 /home/panda/ws_moveit/devel/.private/franka_example_controllers/lib/franka_example_controllers/teleop_gripper_node: CMakeFiles/teleop_gripper_node.dir/src/teleop_gripper_node.cpp.o
 /home/panda/ws_moveit/devel/.private/franka_example_controllers/lib/franka_example_controllers/teleop_gripper_node: CMakeFiles/teleop_gripper_node.dir/build.make
-/home/panda/ws_moveit/devel/.private/franka_example_controllers/lib/franka_example_controllers/teleop_gripper_node: /opt/ros/melodic/lib/libfranka.so.0.8.0
+/home/panda/ws_moveit/devel/.private/franka_example_controllers/lib/franka_example_controllers/teleop_gripper_node: /home/panda/libfranka/build/libfranka.so.0.9.0
 /home/panda/ws_moveit/devel/.private/franka_example_controllers/lib/franka_example_controllers/teleop_gripper_node: /opt/ros/melodic/lib/libdynamic_reconfigure_config_init_mutex.so
 /home/panda/ws_moveit/devel/.private/franka_example_controllers/lib/franka_example_controllers/teleop_gripper_node: /opt/ros/melodic/lib/libeigen_conversions.so
 /home/panda/ws_moveit/devel/.private/franka_example_controllers/lib/franka_example_controllers/teleop_gripper_node: /home/panda/ws_moveit/devel/.private/franka_hw/lib/libfranka_hw.so
 /home/panda/ws_moveit/devel/.private/franka_example_controllers/lib/franka_example_controllers/teleop_gripper_node: /home/panda/ws_moveit/devel/.private/franka_hw/lib/libfranka_control_services.so
 /home/panda/ws_moveit/devel/.private/franka_example_controllers/lib/franka_example_controllers/teleop_gripper_node: /opt/ros/melodic/lib/libcombined_robot_hw.so
 /home/panda/ws_moveit/devel/.private/franka_example_controllers/lib/franka_example_controllers/teleop_gripper_node: /home/panda/ws_moveit/devel/.private/franka_gripper/lib/libfranka_gripper.so
-/home/panda/ws_moveit/devel/.private/franka_example_controllers/lib/franka_example_controllers/teleop_gripper_node: /opt/ros/melodic/lib/libfranka.so.0.8.0
+/home/panda/ws_moveit/devel/.private/franka_example_controllers/lib/franka_example_controllers/teleop_gripper_node: /home/panda/libfranka/build/libfranka.so.0.9.0
 /home/panda/ws_moveit/devel/.private/franka_example_controllers/lib/franka_example_controllers/teleop_gripper_node: /opt/ros/melodic/lib/libtf_conversions.so
 /home/panda/ws_moveit/devel/.private/franka_example_controllers/lib/franka_example_controllers/teleop_gripper_node: /opt/ros/melodic/lib/libkdl_conversions.so
 /home/panda/ws_moveit/devel/.private/franka_example_controllers/lib/franka_example_controllers/teleop_gripper_node: /opt/ros/melodic/lib/liborocos-kdl.so.1.4.0

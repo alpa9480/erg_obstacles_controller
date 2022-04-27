@@ -90,7 +90,7 @@ franka_control_services_EXTERNAL_OBJECTS =
 
 /home/panda/ws_moveit/devel/.private/franka_hw/lib/libfranka_control_services.so: CMakeFiles/franka_control_services.dir/src/services.cpp.o
 /home/panda/ws_moveit/devel/.private/franka_hw/lib/libfranka_control_services.so: CMakeFiles/franka_control_services.dir/build.make
-/home/panda/ws_moveit/devel/.private/franka_hw/lib/libfranka_control_services.so: /opt/ros/melodic/lib/libfranka.so.0.8.0
+/home/panda/ws_moveit/devel/.private/franka_hw/lib/libfranka_control_services.so: /home/panda/libfranka/build/libfranka.so.0.9.0
 /home/panda/ws_moveit/devel/.private/franka_hw/lib/libfranka_control_services.so: /opt/ros/melodic/lib/libactionlib.so
 /home/panda/ws_moveit/devel/.private/franka_hw/lib/libfranka_control_services.so: /opt/ros/melodic/lib/libcombined_robot_hw.so
 /home/panda/ws_moveit/devel/.private/franka_hw/lib/libfranka_control_services.so: /opt/ros/melodic/lib/liburdf.so

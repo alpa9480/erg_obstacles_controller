@@ -1,0 +1,10 @@
+[ 17%] Built target moveit_kdl_kinematics_plugin
+[ 29%] Built target moveit_lma_kinematics_plugin
+[ 41%] Built target moveit_srv_kinematics_plugin
+[ 52%] Built target moveit_cached_ik_kinematics_base
+[ 58%] [32m[1mLinking CXX executable /home/panda/ws_moveit/devel/.private/moveit_kinematics/lib/moveit_kinematics/benchmark_ik[0m
+[ 70%] Built target gtest
+[ 82%] Built target moveit_cached_ik_kinematics_plugin
+[ 88%] [32m[1mLinking CXX executable /home/panda/ws_moveit/devel/.private/moveit_kinematics/lib/moveit_kinematics/test_kinematics_plugin[0m
+[ 94%] Built target benchmark_ik
+[100%] Built target test_kinematics_plugin

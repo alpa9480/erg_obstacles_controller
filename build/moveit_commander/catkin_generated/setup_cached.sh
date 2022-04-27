@@ -9,6 +9,7 @@
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/panda/ws_moveit/devel/.private/moveit_commander:$CMAKE_PREFIX_PATH"
 export LD_LIBRARY_PATH="/home/panda/ws_moveit/devel/.private/moveit_commander/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/panda/ws_moveit/devel/.private/moveit_commander/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/panda/ws_moveit/build/moveit_commander'
 export PYTHONPATH="/home/panda/ws_moveit/devel/.private/moveit_commander/lib/python2.7/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/panda/ws_moveit/devel/.private/moveit_commander/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"

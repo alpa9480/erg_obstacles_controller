@@ -90,11 +90,11 @@ franka_state_controller_EXTERNAL_OBJECTS =
 
 /home/panda/ws_moveit/devel/.private/franka_control/lib/libfranka_state_controller.so: CMakeFiles/franka_state_controller.dir/src/franka_state_controller.cpp.o
 /home/panda/ws_moveit/devel/.private/franka_control/lib/libfranka_state_controller.so: CMakeFiles/franka_state_controller.dir/build.make
-/home/panda/ws_moveit/devel/.private/franka_control/lib/libfranka_state_controller.so: /opt/ros/melodic/lib/libfranka.so.0.8.0
+/home/panda/ws_moveit/devel/.private/franka_control/lib/libfranka_state_controller.so: /home/panda/libfranka/build/libfranka.so.0.9.0
 /home/panda/ws_moveit/devel/.private/franka_control/lib/libfranka_state_controller.so: /opt/ros/melodic/lib/libcontroller_manager.so
 /home/panda/ws_moveit/devel/.private/franka_control/lib/libfranka_state_controller.so: /home/panda/ws_moveit/devel/.private/franka_hw/lib/libfranka_hw.so
 /home/panda/ws_moveit/devel/.private/franka_control/lib/libfranka_state_controller.so: /home/panda/ws_moveit/devel/.private/franka_hw/lib/libfranka_control_services.so
-/home/panda/ws_moveit/devel/.private/franka_control/lib/libfranka_state_controller.so: /opt/ros/melodic/lib/libfranka.so.0.8.0
+/home/panda/ws_moveit/devel/.private/franka_control/lib/libfranka_state_controller.so: /home/panda/libfranka/build/libfranka.so.0.9.0
 /home/panda/ws_moveit/devel/.private/franka_control/lib/libfranka_state_controller.so: /opt/ros/melodic/lib/libcombined_robot_hw.so
 /home/panda/ws_moveit/devel/.private/franka_control/lib/libfranka_state_controller.so: /opt/ros/melodic/lib/liburdf.so
 /home/panda/ws_moveit/devel/.private/franka_control/lib/libfranka_state_controller.so: /usr/lib/x86_64-linux-gnu/liburdfdom_sensor.so
